@@ -1,0 +1,34 @@
+﻿ledefense,Building,longitude,latitude,Location,Surface area(m²),Offices(m²),Shops(m²),height,function,Delivery,zone,node
+,Europe,48.89110165,2.245964063,"33, Place des Corolles - 92400 Courbevoie",30161,27691,2470,110,Office,2011,Place des Corolles,esplande
+,Aurore,48.89014587,2.247345612,"18, Place des Reflets - 92 400 Courbevoie",38 855,32779,1 595,100,Office,1970,Place des Reflets,esplande
+,Saint Gobain,48.88948957,2.249256331,La Défense / North Esplanade / Iris,48 948,,,165,Office,2020,Place de l'Iris,esplande
+,CB21,48.88887468,2.249909194,"Esplanade Nord, quartier Iris (Courbevoie)",78 000 ,,,188,Office,2021,Place de l'Iris,esplande
+,D2,48.89051424,2.247879812,17 bis Place des Reflets - 924,54530,49000,,175,Office,2015,Place des Reflets,esplande
+,CB16-CG1,48.890551,2.247167971,"17, Place des Reflets - 92400 Courbevoie",28000,,,110,Office,2006,Place des Reflets,esplande
+,CBX,48.89115082,2.246569758,"1, Passerelle des Reflets - 92400",43000,,,140,Office,2005,Place des Reflets,esplande
+,Manhattan,48.88987939,2.248511716,"5-6, Place de l'Iris - 92400 Courbevoie",80100,,,110,Office,1975,Place de l'Iris,esplande
+,Cœur Défense,48.89099217,2.244225403,"100-110, esplanade du Général de Gaulle - 92400 Courbevoie","214,700 ",185000,,180,Office,2001,,esplande
+,Europlaza,48.89155415,2.245115914,"20, Avenue André-Prothin - 92400",45000,,,107,Office,1999,,esplande
+,Euronext,48.89064687,2.246738002," 7, Terrasse des Reflets - 92400",10000,,,35,Office,2009,Place des Reflets,esplande
+,Blanche,48.8906567,2.246038843,"34, place des Corolles - 92 400",28500,,,100,Office,2014,Place des Corolles,esplande
+,Manhattan Square,48.88988887,2.248526063,40-42 terrasse de l'Iris 92400 Courbevoie,,,,38,Hotel,1976,Place de l'Iris,esplande
+,Meliá Paris La Défense,48.8885475,2.250572641,"3 Boulevard de Neuilly, 92400 Courbevoie",,,,,Hotel,,,esplande
+,Vision 80,48.88950814,2.246546066,"1-2-3-4-5, Place des Reflets - 92400",,,,47,Residence,1973,Place des Reflets,esplande
+,Lorraine (Résidence),1,2,"11-37, Square des Corolles - 92400",,,,17,Residence,1969,Place des Corolles,esplande
+,Neuilly-Défense,48.88886772,2.248490543,"17-20, Place de l'Iris - 92400 Courbevoie",,,,31,Residence,1984,Place de l'Iris,esplande
+,Eqho,48.89229371,2.246763496,"2, Avenue Gambetta - 92400 Courbevoie","77,000","79,000",,131,Office,2012,,esplande
+,Monge,1,2,"22, Place des Vosges - 92400 Courbevoie",9500,,,34,Office,1996,Place des Vosges,esplande
+,Newton,48.89231799,2.247902821,"9, Place des Vosges - 92 400 Courbevoie",22700,,,35,Office,1989,Place des Vosges,esplande
+,Balzac,48.89191315,2.248813191,"10, Place des Vosges - 92 400 Courbevoie",22700,,,35,Office,1989,Place des Vosges,esplande
+,Lavoisier,1,2,"4, Place des Vosges - 92 400 Courbevoie",22510,,,35,Office,1989,Place des Vosges,esplande
+,La Fayette,48.8930583,2.248650977,"2-3, Place des Vosges 92400 Courbevoie",15500,,,35,Office,1989,Place des Vosges,esplande
+,Collège Les Renardières,48.89116117,2.249223555,"15 Avenue d'Alsace, 92400 Courbevoie",,,,,School,,Avenue d'Alsace,esplande
+,Miroirs (Les),48.89040072,2.250399427,"18, Avenue d'Alsace - 92400 Courbevoie",57500,,,69,Office,1981,Avenue d'Alsace,esplande
+,Damiers de Dauphiné,48.89039711,2.252180124,"11-14, Place des Dominos - 92400 Courbevoie",,,,77,Residence,1976,Place des Dominos,esplande
+,Damiers de Champagne,48.88981006,2.253109851,"11-14, Place des Dominos - 92400 Courbevoie",,,,77,Residence,1976,Place des Dominos,esplande
+,Neptune,48.88949956,2.254110907,"20, place de Seine - 92400 Courbevoie","50,500",,,117,Office,1975,place de Seine,esplande
+,Damiers de Bretagne,1,2,"13-17, place de Seine - 92400 Courbevoie",,,,48,Residence,1976,place de Seine,esplande
+,Damiers d'Anjou,48.88874073,2.253612693,"21, place de Seine - 92400 Courbevoie",,,,48,Residence,1976,place de Seine,esplande
+,Ancre (Résidence de l'),1,2,"10-22, square des Saisons - 92400 Courbevoie",,,,62,Residence,1974,square des Saisons,esplande
+,First,48.88876393,2.251601172,"1-2, Place des Saisons - 92400 Courbevoie",86000,,,231,Office,2011,square des Saisons,esplande
+,Seasons (The),1,2,"4, Place des Saisons - 92400 Courbevoie",8300,,,69,Hotel,1993,square des Saisons,esplande
